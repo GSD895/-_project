@@ -2,7 +2,7 @@ import tkinter as tk
 import os
 import openai
 
-openai.api_key = "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"
+openai.api_key = "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"
 
 messages = []
 
